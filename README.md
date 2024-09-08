@@ -1,5 +1,5 @@
-### Hi👋👨‍💻
-<h2> <i>Backend / Analista</i></h2>
+### Opa👋👨‍💻
+<h2> <i>Profissional de TI</i></h2>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
